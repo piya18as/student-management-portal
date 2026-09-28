@@ -55,4 +55,4 @@ GitHub: https://github.com/piya18as
 
 ## Project Status
 
-Completed
+Frontend completed, currently working on the Backend and Database integration
